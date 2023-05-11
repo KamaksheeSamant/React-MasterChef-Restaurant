@@ -7,6 +7,7 @@ import {
   MenuPack,
   Testimonials,
   Download,
+  Footer,
 } from "../componenets";
 
 const Home = () => {
@@ -19,6 +20,7 @@ const Home = () => {
       <MenuPack />
       <Testimonials />
       <Download />
+      <Footer />
     </Fragment>
   );
 };

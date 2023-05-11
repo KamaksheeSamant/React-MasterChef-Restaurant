@@ -6,3 +6,4 @@ export { default as ChooseUs } from "./ChooseUs";
 export { default as MenuPack } from "./MenuPack";
 export { default as Testimonials } from "./Testimonials";
 export { default as Download } from "./Download";
+export { default as Footer } from "./Footer";
