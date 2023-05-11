@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-MasterChef-Restaurant/static/css/main.d642ddee.chunk.css",
-    "main.js": "/React-MasterChef-Restaurant/static/js/main.d3403215.chunk.js",
-    "main.js.map": "/React-MasterChef-Restaurant/static/js/main.d3403215.chunk.js.map",
+    "main.js": "/React-MasterChef-Restaurant/static/js/main.d20405e3.chunk.js",
+    "main.js.map": "/React-MasterChef-Restaurant/static/js/main.d20405e3.chunk.js.map",
     "runtime-main.js": "/React-MasterChef-Restaurant/static/js/runtime-main.590815d0.js",
     "runtime-main.js.map": "/React-MasterChef-Restaurant/static/js/runtime-main.590815d0.js.map",
     "static/css/2.2c24867f.chunk.css": "/React-MasterChef-Restaurant/static/css/2.2c24867f.chunk.css",
-    "static/js/2.5436334f.chunk.js": "/React-MasterChef-Restaurant/static/js/2.5436334f.chunk.js",
-    "static/js/2.5436334f.chunk.js.map": "/React-MasterChef-Restaurant/static/js/2.5436334f.chunk.js.map",
+    "static/js/2.fa1c5a16.chunk.js": "/React-MasterChef-Restaurant/static/js/2.fa1c5a16.chunk.js",
+    "static/js/2.fa1c5a16.chunk.js.map": "/React-MasterChef-Restaurant/static/js/2.fa1c5a16.chunk.js.map",
     "index.html": "/React-MasterChef-Restaurant/index.html",
     "static/css/2.2c24867f.chunk.css.map": "/React-MasterChef-Restaurant/static/css/2.2c24867f.chunk.css.map",
     "static/css/main.d642ddee.chunk.css.map": "/React-MasterChef-Restaurant/static/css/main.d642ddee.chunk.css.map",
-    "static/js/2.5436334f.chunk.js.LICENSE.txt": "/React-MasterChef-Restaurant/static/js/2.5436334f.chunk.js.LICENSE.txt",
+    "static/js/2.fa1c5a16.chunk.js.LICENSE.txt": "/React-MasterChef-Restaurant/static/js/2.fa1c5a16.chunk.js.LICENSE.txt",
     "static/media/chicken3.bbc7b7ed.png": "/React-MasterChef-Restaurant/static/media/chicken3.bbc7b7ed.png",
     "static/media/coffe2.19b724f3.png": "/React-MasterChef-Restaurant/static/media/coffe2.19b724f3.png",
     "static/media/dessert02.fb48b7db.png": "/React-MasterChef-Restaurant/static/media/dessert02.fb48b7db.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.590815d0.js",
     "static/css/2.2c24867f.chunk.css",
-    "static/js/2.5436334f.chunk.js",
+    "static/js/2.fa1c5a16.chunk.js",
     "static/css/main.d642ddee.chunk.css",
-    "static/js/main.d3403215.chunk.js"
+    "static/js/main.d20405e3.chunk.js"
   ]
 }
