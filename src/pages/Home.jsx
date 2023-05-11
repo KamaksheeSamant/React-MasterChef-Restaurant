@@ -1,5 +1,11 @@
 import React, { Fragment } from "react";
-import { Header, Slider, PopularMenu, ChooseUs } from "../componenets";
+import {
+  Header,
+  Slider,
+  PopularMenu,
+  ChooseUs,
+  MenuPack,
+} from "../componenets";
 
 const Home = () => {
   return (
@@ -8,6 +14,7 @@ const Home = () => {
       <Slider />
       <PopularMenu />
       <ChooseUs />
+      <MenuPack />
     </Fragment>
   );
 };
