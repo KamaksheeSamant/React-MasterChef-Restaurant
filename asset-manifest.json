@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/React-MasterChef-Restaurant/static/css/main.a53697bd.chunk.css",
-    "main.js": "/React-MasterChef-Restaurant/static/js/main.58ee7086.chunk.js",
-    "main.js.map": "/React-MasterChef-Restaurant/static/js/main.58ee7086.chunk.js.map",
+    "main.css": "/React-MasterChef-Restaurant/static/css/main.3a87a39f.chunk.css",
+    "main.js": "/React-MasterChef-Restaurant/static/js/main.dda8e51e.chunk.js",
+    "main.js.map": "/React-MasterChef-Restaurant/static/js/main.dda8e51e.chunk.js.map",
     "runtime-main.js": "/React-MasterChef-Restaurant/static/js/runtime-main.590815d0.js",
     "runtime-main.js.map": "/React-MasterChef-Restaurant/static/js/runtime-main.590815d0.js.map",
     "static/css/2.2c24867f.chunk.css": "/React-MasterChef-Restaurant/static/css/2.2c24867f.chunk.css",
-    "static/js/2.e278b07a.chunk.js": "/React-MasterChef-Restaurant/static/js/2.e278b07a.chunk.js",
-    "static/js/2.e278b07a.chunk.js.map": "/React-MasterChef-Restaurant/static/js/2.e278b07a.chunk.js.map",
+    "static/js/2.01275eda.chunk.js": "/React-MasterChef-Restaurant/static/js/2.01275eda.chunk.js",
+    "static/js/2.01275eda.chunk.js.map": "/React-MasterChef-Restaurant/static/js/2.01275eda.chunk.js.map",
     "index.html": "/React-MasterChef-Restaurant/index.html",
     "static/css/2.2c24867f.chunk.css.map": "/React-MasterChef-Restaurant/static/css/2.2c24867f.chunk.css.map",
-    "static/css/main.a53697bd.chunk.css.map": "/React-MasterChef-Restaurant/static/css/main.a53697bd.chunk.css.map",
-    "static/js/2.e278b07a.chunk.js.LICENSE.txt": "/React-MasterChef-Restaurant/static/js/2.e278b07a.chunk.js.LICENSE.txt",
+    "static/css/main.3a87a39f.chunk.css.map": "/React-MasterChef-Restaurant/static/css/main.3a87a39f.chunk.css.map",
+    "static/js/2.01275eda.chunk.js.LICENSE.txt": "/React-MasterChef-Restaurant/static/js/2.01275eda.chunk.js.LICENSE.txt",
     "static/media/chicken3.bbc7b7ed.png": "/React-MasterChef-Restaurant/static/media/chicken3.bbc7b7ed.png",
     "static/media/coffe2.19b724f3.png": "/React-MasterChef-Restaurant/static/media/coffe2.19b724f3.png",
     "static/media/dessert02.fb48b7db.png": "/React-MasterChef-Restaurant/static/media/dessert02.fb48b7db.png",
     "static/media/dessert2.6d376909.png": "/React-MasterChef-Restaurant/static/media/dessert2.6d376909.png",
     "static/media/dessert3.52214249.png": "/React-MasterChef-Restaurant/static/media/dessert3.52214249.png",
+    "static/media/pasta.0710b65f.png": "/React-MasterChef-Restaurant/static/media/pasta.0710b65f.png",
     "static/media/pizza1.654c0ad4.png": "/React-MasterChef-Restaurant/static/media/pizza1.654c0ad4.png",
     "static/media/slick-theme.css": "/React-MasterChef-Restaurant/static/media/slick.c94f7671.ttf",
     "static/media/slider03.17713c88.png": "/React-MasterChef-Restaurant/static/media/slider03.17713c88.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.590815d0.js",
     "static/css/2.2c24867f.chunk.css",
-    "static/js/2.e278b07a.chunk.js",
-    "static/css/main.a53697bd.chunk.css",
-    "static/js/main.58ee7086.chunk.js"
+    "static/js/2.01275eda.chunk.js",
+    "static/css/main.3a87a39f.chunk.css",
+    "static/js/main.dda8e51e.chunk.js"
   ]
 }
