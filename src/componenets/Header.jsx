@@ -2,47 +2,42 @@ import React from "react";
 import { GrRestaurant } from "react-icons/gr";
 import { BsFillSearchHeartFill } from "react-icons/bs";
 import { AiOutlineMenu } from "react-icons/ai";
-import "./header.css";
-
+import "./header.scss";
 import { Container } from "reactstrap";
+
+import { navLinks } from "../utils/constants";
+
 const Header = () => {
   return (
     <header className="header">
       <Container>
-        <div className="logo">
-          <h2>
-            <span>
-              <GrRestaurant /> Master Chef Food
-            </span>
-            <div className="nav_menus">
-              <ul className="nav_list">
-                <li className="nav_item">
-                  <a href="#">Home</a>
-                </li>
-                <li className="nav_item">
-                  <a href="#">About</a>
-                </li>
-                <li className="nav_item">
-                  <a href="#">Menu</a>
-                </li>
-                <li className="nav_item">
-                  <a href="#">Recipes</a>
-                </li>
-                <li className="nav_item">
-                  <a href="#">Contact</a>
-                </li>
-              </ul>
-            </div>
-          </h2>
-        </div>
-        <div className="menu_right">
-          <div className="custom_search">
-            <input type="" placeholder="Saerch items here..."></input>
-            <BsFillSearchHeartFill />
+        <div className="navigation">
+          <div className="logo">
+            <h2 className="d-flex align-items-center gap-1">
+              <span>
+                <GrRestaurant /> Master Chef Food
+              </span>
+            </h2>
           </div>
-        </div>
-        <div className="mobile_menu">
-          <AiOutlineMenu />
+
+          <div className="nav__menu">
+            <ul className="nav__list">
+              {navLinks.map((item, i) => (
+                <li className="nav__item" key={`${i}nth_navigation`}>
+                  <a href={item.url}>{item.name}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div className="menu__right">
+            <div className="custom__search ">
+              <input type="" placeholder="Saerch items here..."></input>
+              <BsFillSearchHeartFill />
+            </div>
+          </div>
+          <div className="mobile__menu">
+            <AiOutlineMenu />
+          </div>
         </div>
       </Container>
     </header>

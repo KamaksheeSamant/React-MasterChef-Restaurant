@@ -1,8 +1,12 @@
-import React from "react";
+import React, { Fragment } from "react";
 import { Header } from "../componenets";
 
 const Home = () => {
-  return <Header />;
+  return (
+    <Fragment>
+      <Header />
+    </Fragment>
+  );
 };
 
 export default Home;
