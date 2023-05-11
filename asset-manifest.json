@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6172f1f5.chunk.css",
-    "main.js": "/static/js/main.cc12a5cc.chunk.js",
-    "main.js.map": "/static/js/main.cc12a5cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc82ea0e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc82ea0e.js.map",
-    "static/css/2.8b0a0dcb.chunk.css": "/static/css/2.8b0a0dcb.chunk.css",
-    "static/js/2.a97520a0.chunk.js": "/static/js/2.a97520a0.chunk.js",
-    "static/js/2.a97520a0.chunk.js.map": "/static/js/2.a97520a0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.8b0a0dcb.chunk.css.map": "/static/css/2.8b0a0dcb.chunk.css.map",
-    "static/css/main.6172f1f5.chunk.css.map": "/static/css/main.6172f1f5.chunk.css.map",
-    "static/js/2.a97520a0.chunk.js.LICENSE.txt": "/static/js/2.a97520a0.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+    "main.css": "/React-MasterChef-Restaurant/static/css/main.6172f1f5.chunk.css",
+    "main.js": "/React-MasterChef-Restaurant/static/js/main.cc12a5cc.chunk.js",
+    "main.js.map": "/React-MasterChef-Restaurant/static/js/main.cc12a5cc.chunk.js.map",
+    "runtime-main.js": "/React-MasterChef-Restaurant/static/js/runtime-main.590815d0.js",
+    "runtime-main.js.map": "/React-MasterChef-Restaurant/static/js/runtime-main.590815d0.js.map",
+    "static/css/2.2c24867f.chunk.css": "/React-MasterChef-Restaurant/static/css/2.2c24867f.chunk.css",
+    "static/js/2.a97520a0.chunk.js": "/React-MasterChef-Restaurant/static/js/2.a97520a0.chunk.js",
+    "static/js/2.a97520a0.chunk.js.map": "/React-MasterChef-Restaurant/static/js/2.a97520a0.chunk.js.map",
+    "index.html": "/React-MasterChef-Restaurant/index.html",
+    "static/css/2.2c24867f.chunk.css.map": "/React-MasterChef-Restaurant/static/css/2.2c24867f.chunk.css.map",
+    "static/css/main.6172f1f5.chunk.css.map": "/React-MasterChef-Restaurant/static/css/main.6172f1f5.chunk.css.map",
+    "static/js/2.a97520a0.chunk.js.LICENSE.txt": "/React-MasterChef-Restaurant/static/js/2.a97520a0.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/React-MasterChef-Restaurant/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc82ea0e.js",
-    "static/css/2.8b0a0dcb.chunk.css",
+    "static/js/runtime-main.590815d0.js",
+    "static/css/2.2c24867f.chunk.css",
     "static/js/2.a97520a0.chunk.js",
     "static/css/main.6172f1f5.chunk.css",
     "static/js/main.cc12a5cc.chunk.js"
