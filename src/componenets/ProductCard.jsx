@@ -1,13 +1,16 @@
 import React from "react";
 import { AiFillStar, AiOutlineShoppingCart } from "react-icons/ai";
-import "./productCard.scss";
+import "./product-card.scss";
 
-const ProductCard = ({ item }) => {
+const ProductCard = (props) => {
+  const { title, imgUrl, price } = props.item;
+
   return (
     <div className="single__product">
       <div className="product__img">
-        <img src={item.imgUrl} alt="" className="w-100" />
+        <img src={imgUrl} alt="" className="w-100" />
       </div>
+
       <div className="product__content">
         <div className="rating text-center">
           <span>
@@ -26,13 +29,17 @@ const ProductCard = ({ item }) => {
             <AiFillStar className="ri-star-s-fill" />
           </span>
         </div>
-        <h6>{item.title}</h6>
-        <div className="d-flex align-items-center justify-content-between">
-          <span className="price">
+
+        <h6>{title}</h6>
+
+        <div className=" d-flex align-items-center justify-content-between">
+          <span className="price d-flex align-items-center">
             {" "}
-            Price: $<span>{item.price}</span>
+            Price: $<span>{price}</span>
           </span>
-          <AiOutlineShoppingCart />
+          <span className="shopping__icon">
+            <AiOutlineShoppingCart />
+          </span>
         </div>
       </div>
     </div>

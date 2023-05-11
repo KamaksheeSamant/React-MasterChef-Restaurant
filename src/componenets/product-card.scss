@@ -1,5 +1,5 @@
 .single__product {
-    background: #141124;
+    background: #eeedf2;
     border-radius: 10px;
     cursor: pointer;
     animation: animate 1s ease-in;
@@ -27,7 +27,7 @@
   }
   
   .price {
-    color: #fff;
+    color: black;
   }
   
   .price span {
@@ -58,6 +58,9 @@
   }
   
   @media only screen and (max-width: 767px) {
+    .single__product{
+      margin: 2rem;
+    }
     .product__content h6 {
       font-size: 0.9rem;
     }
