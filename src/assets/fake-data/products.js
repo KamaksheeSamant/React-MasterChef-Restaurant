@@ -26,7 +26,7 @@ export const popularMenuFood = [
     id: "02",
     title: "Chicken",
     price: 250,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
 
   {
@@ -49,49 +49,49 @@ export const fastFoodProducts = [
     id: "05",
     title: "Burger",
     price: 95,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "06",
     title: "Chicken",
     price: 250,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "07",
     title: "Grill Chicken",
     price: 195,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "08",
     title: "Barbeque",
     price: 275,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "09",
     title: "Pizza",
     price: 275,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "10",
     title: "Burger",
     price: 95,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "11",
     title: "Chicken",
     price: 250,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
   {
     id: "12",
     title: "Grill Chicken",
     price: 195,
-    imgUrl: fastFood04,
+    imgUrl: fastFood03,
   },
 ];
 
