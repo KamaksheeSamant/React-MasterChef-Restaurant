@@ -1,10 +1,11 @@
 import React, { Fragment } from "react";
-import { Header } from "../componenets";
+import { Header, Slider } from "../componenets";
 
 const Home = () => {
   return (
     <Fragment>
       <Header />
+      <Slider />
     </Fragment>
   );
 };

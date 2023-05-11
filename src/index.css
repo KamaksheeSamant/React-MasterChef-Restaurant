@@ -45,3 +45,8 @@ a {
 i {
   color: #fff;
 }
+
+.slick-prev:before,
+.slick-next:before {
+  color: black !important;
+}
