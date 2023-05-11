@@ -4,3 +4,5 @@ export { default as PopularMenu } from "./PopularMenu";
 export { default as ProductCard } from "./ProductCard";
 export { default as ChooseUs } from "./ChooseUs";
 export { default as MenuPack } from "./MenuPack";
+export { default as Testimonials } from "./Testimonials";
+export { default as Download } from "./Download";

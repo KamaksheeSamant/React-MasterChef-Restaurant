@@ -5,6 +5,8 @@ import {
   PopularMenu,
   ChooseUs,
   MenuPack,
+  Testimonials,
+  Download,
 } from "../componenets";
 
 const Home = () => {
@@ -15,6 +17,8 @@ const Home = () => {
       <PopularMenu />
       <ChooseUs />
       <MenuPack />
+      <Testimonials />
+      <Download />
     </Fragment>
   );
 };
